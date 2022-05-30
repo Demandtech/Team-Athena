@@ -14,8 +14,8 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 300px;
-  height: 300px;
+  width: 350px;
+   height: 350px;
   margin: -150px;
   float: left;
   perspective: 500px;
@@ -42,8 +42,9 @@ body {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: white;
-  line-height: 300px;
+  background:url(../athena.jpeg) no-repeat center;
+  background-size: cover;
+  
   text-align: center;
   border-radius: 5px;
   backface-visibility: hidden;
