@@ -1,5 +1,5 @@
 ///Number 1
-document.getElementById("team").style.color = "#03446a";
+document.getElementById("team-name").style.color = "gold";
 
 //Number 2
 const athena = ["Toba", "Demand", "Jhena", "Obums", "shytemi", "Emmanuel", "Mitems" ];
